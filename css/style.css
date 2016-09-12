@@ -1,0 +1,23 @@
+body {
+    
+}
+
+.wrapper {
+    background: #000;
+}
+
+.site-header {
+    background-color: #f1f1f1;
+}
+
+.site-navigation {
+    background-color: #ccc;
+}
+
+.site-content {
+    background-color: #fff;
+}
+
+.site-footer {
+    background-color: #999;
+}
